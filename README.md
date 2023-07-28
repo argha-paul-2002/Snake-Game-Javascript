@@ -36,4 +36,4 @@ Stay updated with the latest SnakeX news and releases by following us on Twitter
 
 Dive into the world of SnakeX and challenge yourself to achieve the highest score. SnakeX promises an exciting journey filled with twists and turns!
 
-[🎮 Live Demo]()
+[🎮 Live Demo](https://argha-paul-2002.github.io/Snake-Game-Javascript/)
