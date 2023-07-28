@@ -28,9 +28,6 @@
 
 SnakeX is an open-source project, and we invite all gaming enthusiasts and developers to contribute to its growth. Whether you want to optimize performance, add new features, or fix bugs, your contributions will help make SnakeX even more entertaining!
 
-🐦 **Follow Us:**
-
-Stay updated with the latest SnakeX news and releases by following us on Twitter: [@SnakeXGaming](https://twitter.com/SnakeXGaming)
 
 🎉 **Let the Games Begin:**
 
